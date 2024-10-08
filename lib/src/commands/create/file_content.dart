@@ -249,7 +249,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: '$displayName',
         navigatorKey: AppRouter.navigator,
-        home: Scaffold(body: Center(child: Text("Created with itc_flutter CLI"))));
+        home: Scaffold(body: Center(child: Text("Created with fluttr CLI"))));
   }
 }
 ''';
