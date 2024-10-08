@@ -16,10 +16,10 @@ dart pub global activate fluttr
 
 ## New Project
 
-Use the `fluttr create <project_name> --org <project_package_name>` command to create a new flutter project.
+Use the `fluttr create <project_name> --org <project_package_name>` command to create a new Flutter Project.
 
 ```shell
-# Create new project called "super"
+# Create new Flutter Project called "super"
 fluttr create super --org com.organization
 ```
 

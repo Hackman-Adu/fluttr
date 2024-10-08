@@ -1,6 +1,6 @@
 name: fluttr
 description: Dart CLI tool which simplifies the setup of new Flutter projects by automatically generating a well-structured folder and file layout,currently tailored for personal use. Suggestions are welcomed to improve this tool making it more valuable for broader audience
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Hackman-Adu/fluttr.git
 
 environment:
