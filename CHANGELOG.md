@@ -9,3 +9,7 @@
 ## 1.0.2
 
 - Minor fix
+
+## 1.0.3
+
+- Update dependencies
